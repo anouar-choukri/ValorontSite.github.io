@@ -69,7 +69,7 @@ section {
     text-align: center;
     padding: 15em 0;
     background-color: rgb(224, 224, 224);
-    background-image: url(../valorant\ website/valorant.png);
+    background-image: url(./valorant.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: clamp(20rem, calc(55vw + 10rem), 50rem);
